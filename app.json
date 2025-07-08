@@ -39,7 +39,7 @@
     },
     "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
-      "value": "yes",
+      "value": "no",
       "required": true
     },
     "PM_PERMIT": {
